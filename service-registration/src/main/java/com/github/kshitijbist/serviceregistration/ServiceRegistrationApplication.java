@@ -1,13 +1,13 @@
-package com.kshitij.springrestapp;
+package com.github.kshitijbist.serviceregistration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringRestAppApplication {
+public class ServiceRegistrationApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringRestAppApplication.class, args);
+		SpringApplication.run(ServiceRegistrationApplication.class, args);
 	}
 
 }
